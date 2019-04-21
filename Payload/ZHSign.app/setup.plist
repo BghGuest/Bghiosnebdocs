@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isNavRefresh</key>
+	<false/>
+	<key>isProgress</key>
+	<true/>
+	<key>isanilunch</key>
+	<true/>
+	<key>islaunchimage</key>
+	<true/>
+	<key>isnav</key>
+	<true/>
+	<key>isrefresh</key>
+	<false/>
+	<key>istap</key>
+	<false/>
+	<key>iswk</key>
+	<true/>
+	<key>navTintColor</key>
+	<string></string>
+	<key>showtime</key>
+	<integer>2</integer>
+	<key>statusBarColor</key>
+	<string></string>
+	<key>url</key>
+	<string>BHcQzp3oaXOeZY3q0VmI6SSgnErbprqF</string>
+</dict>
+</plist>
